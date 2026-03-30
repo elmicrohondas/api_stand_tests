@@ -2,7 +2,7 @@
 
 ## Descripción del proyecto
 Este proyecto contiene pruebas automatizadas para validar la funcionalidad de creación de usuarios en la API de Urban Grocers.
-
+Esto nos facilita la ejecucion de pruebas
 ## Tecnologías utilizadas
 - Python 3.x
 - pytest
